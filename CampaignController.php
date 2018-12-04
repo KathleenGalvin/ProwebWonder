@@ -44,7 +44,7 @@ use Symfony\Component\Routing\Generator\UrlGenerator;
  */
 class CampaignController extends Controller
 {
-    const PREVIEW_RESULT_WON = 'won';
+    const PREVIEW_RESULT_WON = 'won 2 times';
     const PREVIEW_RESULT_LOST = 'lost';
 
     /**
