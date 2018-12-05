@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Property of ProwebCE.
+ * Property of Moi.
  */
 
 namespace AppBundle\AdventCalendar\Entity;
